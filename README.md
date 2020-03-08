@@ -1,3 +1,3 @@
-# Java-extended-collections 
+# Java-collection-extension
 
 What is the motivation? During my daily work, I notice that a number of frequently-used helper functions or new data structures are missing in the Java Collection library, e.g., find the min/max of a collection, topologically sorting a list, calculating the moving average, find the top N elements in a list etc. Kotlin, on the other hand, has already made a huge improvement for this by adding/extending the Java Collection. However, it is not enough. This project tries to provide a comprehensive list of utility helper functions and new data structures, an easy-to-use supplementary of Java Collections. 
